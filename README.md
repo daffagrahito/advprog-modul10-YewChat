@@ -15,7 +15,7 @@ Dari Components - Phase 2 hingga final tutorial app nya.
 
 #### Terminal Run
 
-![Image 3_3.1](assets/images/Image3%203.1.png)
+![Image 3_3.1](assets/images/image3%203.1.png)
 Terminal run dari `SimpleWebSocketServer` dan client `YewChat`
 
 ## 3.2. Add some creativities to the webclient
